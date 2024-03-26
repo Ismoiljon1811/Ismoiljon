@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ismoiljon</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
 - 📫 How to reach me **ismoiljonllhomjonov6808@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I can get along very well with a team**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
